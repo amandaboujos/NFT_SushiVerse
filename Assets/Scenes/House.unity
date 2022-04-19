@@ -1492,8 +1492,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 35286526}
-  m_LocalRotation: {x: -0.19992729, y: 0.015578678, z: 0.003173917, w: 0.97968173}
-  m_LocalPosition: {x: -21.671442, y: -5.565688, z: -25.214033}
+  m_LocalRotation: {x: 0.10685503, y: 0.40521455, z: 0.047754467, w: -0.9066988}
+  m_LocalPosition: {x: -16.9054, y: -5.5765524, z: -23.571323}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1910100539}
@@ -96121,7 +96121,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 312778563}
     m_Modifications:
+    - target: {fileID: 289360078095015752, guid: 54e976d5ab8501c4a91ae698aee9d816, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6b1b6e979ff51d84ab78e8910660bdb2, type: 2}
     - target: {fileID: 2335464940872286107, guid: 54e976d5ab8501c4a91ae698aee9d816, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6b1b6e979ff51d84ab78e8910660bdb2, type: 2}
+    - target: {fileID: 6026889776668975349, guid: 54e976d5ab8501c4a91ae698aee9d816, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 6b1b6e979ff51d84ab78e8910660bdb2, type: 2}
@@ -96181,6 +96189,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7503005785599322904, guid: 54e976d5ab8501c4a91ae698aee9d816, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6b1b6e979ff51d84ab78e8910660bdb2, type: 2}
     - target: {fileID: 9185238441391515103, guid: 54e976d5ab8501c4a91ae698aee9d816, type: 3}
       propertyPath: m_Name
       value: McLaren_600lt
