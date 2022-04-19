@@ -1,0 +1,11 @@
+Model Information:
+* title:	bedroom
+* source:	https://sketchfab.com/3d-models/bedroom-4e37ba51efac4a86a1ad8910fd0198b1
+* author:	Kurnia Fitriani (https://sketchfab.com/kurniafitriani)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "bedroom" (https://sketchfab.com/3d-models/bedroom-4e37ba51efac4a86a1ad8910fd0198b1) by Kurnia Fitriani (https://sketchfab.com/kurniafitriani) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
