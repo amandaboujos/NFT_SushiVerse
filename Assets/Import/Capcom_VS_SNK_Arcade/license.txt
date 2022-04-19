@@ -1,0 +1,11 @@
+Model Information:
+* title:	Capcom VS SNK Arcade
+* source:	https://sketchfab.com/3d-models/capcom-vs-snk-arcade-78a7c30405f64b0f8137c3922c1464a0
+* author:	DilutedBrains (https://sketchfab.com/DilutedBrains)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Capcom VS SNK Arcade" (https://sketchfab.com/3d-models/capcom-vs-snk-arcade-78a7c30405f64b0f8137c3922c1464a0) by DilutedBrains (https://sketchfab.com/DilutedBrains) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

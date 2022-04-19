@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cute Arcade Machine
+* source:	https://sketchfab.com/3d-models/cute-arcade-machine-1c66c46eb33f44a9b2d82891d6cfebf4
+* author:	hazeletc (https://sketchfab.com/hazeletc)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cute Arcade Machine" (https://sketchfab.com/3d-models/cute-arcade-machine-1c66c46eb33f44a9b2d82891d6cfebf4) by hazeletc (https://sketchfab.com/hazeletc) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
