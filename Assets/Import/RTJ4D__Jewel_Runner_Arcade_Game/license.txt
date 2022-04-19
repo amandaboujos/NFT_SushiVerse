@@ -1,0 +1,11 @@
+Model Information:
+* title:	RTJ4D || Jewel Runner Arcade Game
+* source:	https://sketchfab.com/3d-models/rtj4d-jewel-runner-arcade-game-71825647d40445b5ad4247e781df6d52
+* author:	Nobody Famous (https://sketchfab.com/nobodyfamous)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "RTJ4D || Jewel Runner Arcade Game" (https://sketchfab.com/3d-models/rtj4d-jewel-runner-arcade-game-71825647d40445b5ad4247e781df6d52) by Nobody Famous (https://sketchfab.com/nobodyfamous) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
