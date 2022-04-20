@@ -12,13 +12,21 @@ public class SpaceToMain : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update(){
+    void Update()
+    {
 
     }
-    void OnTriggerEnter(Collider gameObjectInformation){
-        if (gameObjectInformation.gameObject.tag == "Player"){
+    void OnTriggerEnter(Collider gameObjectInformation)
+    {
+        if (gameObjectInformation.gameObject.tag == "Player")
+        {
             Debug.Log("Collision Detected");
             SceneManager.LoadScene("Main");
         }
+
+        //Debug.Log(gameObjectInformation.gameObject.name); 
+
+
     }
+
 }

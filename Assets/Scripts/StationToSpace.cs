@@ -20,8 +20,13 @@ public class StationToSpace : MonoBehaviour
     {
         if (gameObjectInformation.gameObject.tag == "Player")
         {
-            Debug.Log ("Collision Detected");
-            SceneManager.LoadScene ("Space");
+            Debug.Log("Collision Detected");
+            SceneManager.LoadScene("Space");
         }
+
+        //Debug.Log(gameObjectInformation.gameObject.name); 
+
+
     }
+
 }
