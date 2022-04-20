@@ -1,0 +1,11 @@
+Model Information:
+* title:	Beach Cafe
+* source:	https://sketchfab.com/3d-models/beach-cafe-f70b5db819b1445d9427168bf0ff4383
+* author:	olegdobrynin (https://sketchfab.com/olegdobrynin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Beach Cafe" (https://sketchfab.com/3d-models/beach-cafe-f70b5db819b1445d9427168bf0ff4383) by olegdobrynin (https://sketchfab.com/olegdobrynin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
