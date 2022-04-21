@@ -1,0 +1,11 @@
+Model Information:
+* title:	Minardi PS04B 2004
+* source:	https://sketchfab.com/3d-models/minardi-ps04b-2004-07407af40f0c46e2bda1434f5481fb7d
+* author:	TheoDev (https://sketchfab.com/TheoDevF1)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Minardi PS04B 2004" (https://sketchfab.com/3d-models/minardi-ps04b-2004-07407af40f0c46e2bda1434f5481fb7d) by TheoDev (https://sketchfab.com/TheoDevF1) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

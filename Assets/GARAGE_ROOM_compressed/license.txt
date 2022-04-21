@@ -1,0 +1,11 @@
+Model Information:
+* title:	GARAGE ROOM compressed
+* source:	https://sketchfab.com/3d-models/garage-room-compressed-2bd7e8adc25c470ba43cddd3a1951d34
+* author:	NEYCER (https://sketchfab.com/NEYCER)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "GARAGE ROOM compressed" (https://sketchfab.com/3d-models/garage-room-compressed-2bd7e8adc25c470ba43cddd3a1951d34) by NEYCER (https://sketchfab.com/NEYCER) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

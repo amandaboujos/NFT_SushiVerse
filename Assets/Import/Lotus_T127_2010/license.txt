@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lotus T127 2010
+* source:	https://sketchfab.com/3d-models/lotus-t127-2010-a12fd8b186b44181826c48a1f8fe26f6
+* author:	TheoDev (https://sketchfab.com/TheoDevF1)
+
+Model License:
+* license type:	CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)
+* requirements:	Author must be credited. Modified versions can not be distributed. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lotus T127 2010" (https://sketchfab.com/3d-models/lotus-t127-2010-a12fd8b186b44181826c48a1f8fe26f6) by TheoDev (https://sketchfab.com/TheoDevF1) licensed under CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)
