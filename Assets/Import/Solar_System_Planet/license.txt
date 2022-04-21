@@ -1,0 +1,11 @@
+Model Information:
+* title:	Solar System Planet
+* source:	https://sketchfab.com/3d-models/solar-system-planet-33d8c6deda9b420aa2b54930e47c1522
+* author:	ann55010970637 (https://sketchfab.com/ann55010970637)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Solar System Planet" (https://sketchfab.com/3d-models/solar-system-planet-33d8c6deda9b420aa2b54930e47c1522) by ann55010970637 (https://sketchfab.com/ann55010970637) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
