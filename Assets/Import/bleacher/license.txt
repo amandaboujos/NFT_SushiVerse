@@ -1,0 +1,11 @@
+Model Information:
+* title:	bleacher
+* source:	https://sketchfab.com/3d-models/bleacher-8f61f803a4ea42088893e77f8ecd649e
+* author:	emc2dvs (https://sketchfab.com/emc2dvs)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "bleacher" (https://sketchfab.com/3d-models/bleacher-8f61f803a4ea42088893e77f8ecd649e) by emc2dvs (https://sketchfab.com/emc2dvs) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
