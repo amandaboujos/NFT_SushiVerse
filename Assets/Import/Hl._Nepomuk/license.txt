@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hl. Nepomuk
+* source:	https://sketchfab.com/3d-models/hl-nepomuk-40c7dad961074f00b5066f31efa4e082
+* author:	noe-3d.at (https://sketchfab.com/www.noe-3d.at)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hl. Nepomuk" (https://sketchfab.com/3d-models/hl-nepomuk-40c7dad961074f00b5066f31efa4e082) by noe-3d.at (https://sketchfab.com/www.noe-3d.at) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
