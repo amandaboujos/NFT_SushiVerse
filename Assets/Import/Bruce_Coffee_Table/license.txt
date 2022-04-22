@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bruce Coffee Table
+* source:	https://sketchfab.com/3d-models/bruce-coffee-table-e7224261f0c940fc945d56ec7a6d56c2
+* author:	Valyou-Furniture (https://sketchfab.com/Valyou-Furniture)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bruce Coffee Table" (https://sketchfab.com/3d-models/bruce-coffee-table-e7224261f0c940fc945d56ec7a6d56c2) by Valyou-Furniture (https://sketchfab.com/Valyou-Furniture) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

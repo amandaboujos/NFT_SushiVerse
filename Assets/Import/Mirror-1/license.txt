@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mirror-1
+* source:	https://sketchfab.com/3d-models/mirror-1-5c4e5f7fee5e41d1bc68dcdfe6490cf2
+* author:	FalconXp (https://sketchfab.com/modernwarfare)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mirror-1" (https://sketchfab.com/3d-models/mirror-1-5c4e5f7fee5e41d1bc68dcdfe6490cf2) by FalconXp (https://sketchfab.com/modernwarfare) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

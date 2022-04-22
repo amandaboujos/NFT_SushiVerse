@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stylised Coffee Table
+* source:	https://sketchfab.com/3d-models/stylised-coffee-table-81b14f5448e5477ea21d9aae3f72521e
+* author:	Benji Labs (https://sketchfab.com/benjilabs)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stylised Coffee Table" (https://sketchfab.com/3d-models/stylised-coffee-table-81b14f5448e5477ea21d9aae3f72521e) by Benji Labs (https://sketchfab.com/benjilabs) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
