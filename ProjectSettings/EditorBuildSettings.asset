@@ -21,9 +21,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Utopia.unity
     guid: c640883561e7630439a7eef39ca0f1ae
   - enabled: 1
-    path: Assets/Scenes/F1.unity
-    guid: 3a9f1b6a87876e3488d39e9c9e2751cb
-  - enabled: 1
     path: Assets/Scenes/House.unity
     guid: 375bf00106b17164bba2cad2e9ab4fa3
   - enabled: 1
