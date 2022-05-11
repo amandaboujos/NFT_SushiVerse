@@ -1,0 +1,11 @@
+Model Information:
+* title:	Shiroza - V1
+* source:	https://sketchfab.com/3d-models/shiroza-v1-0abbe5963819447ab9c46aae82747d20
+* author:	Vonka Stairs Ltd (https://sketchfab.com/vonka)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Shiroza - V1" (https://sketchfab.com/3d-models/shiroza-v1-0abbe5963819447ab9c46aae82747d20) by Vonka Stairs Ltd (https://sketchfab.com/vonka) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

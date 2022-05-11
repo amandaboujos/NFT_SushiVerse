@@ -1,0 +1,11 @@
+Model Information:
+* title:	Medieval Labyrinth - Stairs Mid
+* source:	https://sketchfab.com/3d-models/medieval-labyrinth-stairs-mid-55ad3ffdf7714e7481f54cc14459c9aa
+* author:	Phil_XG (https://sketchfab.com/phil_xg)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Medieval Labyrinth - Stairs Mid" (https://sketchfab.com/3d-models/medieval-labyrinth-stairs-mid-55ad3ffdf7714e7481f54cc14459c9aa) by Phil_XG (https://sketchfab.com/phil_xg) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

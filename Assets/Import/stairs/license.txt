@@ -1,0 +1,11 @@
+Model Information:
+* title:	stairs
+* source:	https://sketchfab.com/3d-models/stairs-6f449130719e47108c7a1bf6ae9f1db3
+* author:	pampi2703 (https://sketchfab.com/pampi2703)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "stairs" (https://sketchfab.com/3d-models/stairs-6f449130719e47108c7a1bf6ae9f1db3) by pampi2703 (https://sketchfab.com/pampi2703) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
